@@ -4,13 +4,14 @@ h1{
     font-size: 50px;
     word-spacing: 10px;
     padding-left: 50px;
+    letter-spacing: 16px;
 }
 
 p{
     padding:40px ;
-    margin margin-right: ;: 30px;
-    font-size: 60px;
-    background-color: red;
-    letter-spacing: 20px;
+    margin: 10px;
+    background-color: yellow;
+    font-size: 30px;
+    letter-spacing: 15px;
     
 }
