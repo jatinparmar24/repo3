@@ -17,11 +17,13 @@ p{
 tr{
     background-color: darkorchid;
     margin: 50px;
-    border: 20px;
+    border: solid;
 }
 th{
     background-color: brown;
+    border: solid;
 }
 td{
     background-color: aqua;
+    border: solid;
 }
